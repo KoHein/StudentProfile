@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # laravelstudentsprofile
 Laravel - The PHP Framework Project
 
@@ -18,3 +19,7 @@ Laravel - The PHP Framework Project
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+=======
+# StudentProfile
+studentprofile
+>>>>>>> 8c55dc51dac4c671992d44e25c785089d5fdc292
