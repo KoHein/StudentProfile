@@ -1,0 +1,127 @@
+body{
+	font-family: ubuntu;
+}
+.home_box1 i
+{
+	margin-top: 20px;
+	margin-left: 25px;
+	font-size: 100px;
+	color: #FFF;
+}
+
+.placeholder
+{
+	font-size: 200px;
+	color: #000;
+	margin-left: 40px;
+}
+
+p.studentname
+{
+	font-size: 17px;
+
+}
+
+.detail .thumbnail
+{
+	padding-left: 30px;
+}
+
+.detail
+{
+	background-color: #FFF;
+}
+.detail h3
+{
+	color: #000;
+}
+
+.detail h2
+{
+	color: #000;
+	margin-top: 10px;
+	margin-left: 26px;
+}
+.detail table
+{
+	margin-top: 27px;
+	color: #000;
+	font-size: 12px;
+}
+.detail table tr td
+{
+	text-transform: capitalize;
+	padding: 8px;
+}
+
+table .progress {
+	overflow: hidden;
+	height: 9px !important;
+	margin-top: 4px !important;
+	margin-bottom: 0 !important;	
+}
+
+div#students, .detail , .scrollbar{
+	overflow-x:hidden;
+	overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+	width: 12px;
+}
+
+::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+#contact_form form textarea
+{
+	border:none !important;
+	background: #FFF !important;
+	width: 328px;
+	color: #000;
+}
+
+.profileimagecontainer
+{
+	margin-top: 40px;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+
+.profileimagecontainer img
+{
+	width: 100%;
+}
+
+.thumbnail .profileimagecontainer img
+{
+	margin-left: 30px;
+}
+
+#home_gallery img
+{
+	width: 152px;
+	height: 152px;	
+}
+
+
+.portfolio-item
+{
+	overflow: hidden;
+	margin-top: 20px;
+}
+.portfolio-item img
+{
+	width: 100%;
+	height: 200px;
+
+}
+
